@@ -9,4 +9,4 @@ Este es un generador de contraseñas aleatorias desarrollado como una aplicació
 - Permite al usuario incluir letras mayúsculas y minúsculas, números y caracteres especiales en la contraseña
 - Genera contraseñas aleatorias y seguras
 
-** Ingresa a la pagina web aqui : [passowrd-generator](https://passoword-generator.surge.sh/)
+** Ingresa a la pagina web aqui ** : [passowrd-generator](https://passoword-generator.surge.sh/)
